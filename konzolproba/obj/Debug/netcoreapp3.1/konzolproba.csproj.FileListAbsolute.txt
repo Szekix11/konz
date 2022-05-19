@@ -1,0 +1,14 @@
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\bin\Debug\netcoreapp3.1\konzolproba.exe
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\bin\Debug\netcoreapp3.1\konzolproba.deps.json
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\bin\Debug\netcoreapp3.1\konzolproba.runtimeconfig.json
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\bin\Debug\netcoreapp3.1\konzolproba.runtimeconfig.dev.json
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\bin\Debug\netcoreapp3.1\konzolproba.dll
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\bin\Debug\netcoreapp3.1\konzolproba.pdb
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.csproj.AssemblyReference.cache
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.AssemblyInfoInputs.cache
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.AssemblyInfo.cs
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.csproj.CoreCompileInputs.cache
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.dll
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.pdb
+C:\Users\Szekeres Alex\source\repos\konzolproba\konzolproba\obj\Debug\netcoreapp3.1\konzolproba.genruntimeconfig.cache
